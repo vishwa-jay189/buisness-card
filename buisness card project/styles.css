@@ -1,0 +1,21 @@
+.avatar{
+ 
+    width:150px;
+
+
+
+}
+.container{
+justify-content:space-around;
+padding:20px;
+display:flex;
+width:400px;
+margin:auto auto;
+text-align:center;
+background:#8686DF;
+color:#2b2839;
+border-bottom:6px solid silver;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+text-shadow:0px 1px #3b374e;
+
+}
